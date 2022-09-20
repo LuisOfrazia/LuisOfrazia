@@ -1,7 +1,7 @@
-- 👋 Oi, eu sou LuisOfrazia
-- 👀 Estou interessado em aprender mais programações.
-- 🌱 Atuamente estou aprendendo a programar.
-- 📫 Como chegar até mim: luis.ofrazia@escola.pr.gov.br
+- :moyai: Oi, eu sou LuisOfrazia
+- :computer: Estou interessado em aprender mais programações.
+- :writing_hand: Atuamente estou aprendendo a programar.
+- :calling: Como chegar até mim: luis.ofrazia@escola.pr.gov.br
 
 <!---
 LuisOfrazia/LuisOfrazia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
